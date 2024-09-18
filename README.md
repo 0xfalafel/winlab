@@ -9,3 +9,13 @@ Code is taken from 2 tutorials:
 * https://dev.to/sannae/setting-up-windows-virtual-test-environments-with-vagrant-4k1b
 * https://codeblog.dotsandbrackets.com/vagrant-windows/
 
+## Start the lab
+
+First install Vagrant:
+https://developer.hashicorp.com/vagrant/downloads
+
+Then build the VM with:
+
+```bash
+vagrant up
+```
